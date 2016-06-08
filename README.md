@@ -1,3 +1,5 @@
 # piezoresistance_in_p-type_silicon
 
 work-in-progress
+
+https://www.researchgate.net/publication/270645856_Numencal_Simulation_of_Nonlinearity_of_the_Piezoresistance_in_p-type_Silicon
